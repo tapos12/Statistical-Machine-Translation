@@ -1,4 +1,4 @@
-"""Author: Touhidul Alam (3293940)"""
+"""Author: Touhidul Alam"""
 from collections import defaultdict
 
 class EM():
